@@ -11,10 +11,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoPaniz&layout=compact&langs_count=7&theme=gotham"/>
 </div>
  
-  ##
-  
-![Contribution](https://activity-graph.herokuapp.com/graph?username=LeonardoPaniz&theme=gotham&hide_border=true&area=true)
- 
  ## 
  
 <div style="display: inline_block"><br>
