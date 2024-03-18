@@ -1,34 +1,29 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-##
+<p align="left"> 
+  Oiee tudo bem, seja bem vindo ao meu cantinho da imaginação... Aqui compartilho ideias, projetos e expêriencias. Sinta-se convidado a conhecer meu GitHub.
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=10898b&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD,+Me+chamo+Leonardo+Paniz+Aguiar;Atualmente+tenho+16+anos;Moro+em+Pato+Branco,+PR;Estudo+no+6°+CPM;Fique+á+vontade+para+continuar;+vendo+meu+repositório+:%29)](https://git.io/typing-svg)
+<p align="left">
+  🦄 Linguagens: Tpescript, JavaScript, HTML, CSS, SQL
+</p>
 
-##
+<p align="left">
+  💼 Ferramentas: VS Code, Trello, Git, GitLab, Figma
+</p>
 
-<div align="center">
-  <a href="https://github.com/LeonardoPaniz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoPaniz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoPaniz&layout=compact&langs_count=7&theme=gotham"/>
-</div>
- 
- ## 
- 
-<div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="right" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="right" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<p align="left">
+  💌 Se precisar entrar em contato, sinta-se à vontade para enviar uma mensagem pelas plataformas ai de baixo :)
+</p>
 
- 
-<div align="left"> 
-  <a href="https://www.instagram.com/leonardo_paniz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:leonardopaniz@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardo-paniz-230a51248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
-##  
-  
-<div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LeonardoPaniz}/count.svg" /></p> 
-</br></div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/leonardo-paniz-aguiar-230a51248/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-paniz-aguiar-230a51248/" alt="LinkedIn"/></a>
+  <a href="https://wa.me/5546999425308?text=Oieee+eae+tudo+bem%3F+Vi+sua+p%C3%A1gina+no+GitHub+e+pense+em+trocar+uma+ideia." title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5546999425308?text=Oieee+eae+tudo+bem%3F+Vi+sua+p%C3%A1gina+no+GitHub+e+pense+em+trocar+uma+ideia." alt="WhatsApp"/></a>
+  <a href="https://www.instagram.com/leonardo_paniz/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/leonardo_paniz/" alt="Instagram"/></a>
+   <a href="https://lpatech.com.br/" title="Site">
+  <img src="https://img.shields.io/badge/-Site-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://lpatech.com.br/" alt="Gmail"/></a>
+</p>
