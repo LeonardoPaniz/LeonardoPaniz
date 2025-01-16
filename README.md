@@ -24,6 +24,6 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5546999425308?text=Oieee+eae+tudo+bem%3F+Vi+sua+p%C3%A1gina+no+GitHub+e+pense+em+trocar+uma+ideia." alt="WhatsApp"/></a>
   <a href="https://www.instagram.com/leonardo_paniz/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/leonardo_paniz/" alt="Instagram"/></a>
-   <a href="https://lpatech.com.br/" title="Site">
+   <a href="https://lpatech-site.netlify.app/home" title="Site">
   <img src="https://img.shields.io/badge/-Site-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://lpatech.com.br/" alt="Gmail"/></a>
 </p>
